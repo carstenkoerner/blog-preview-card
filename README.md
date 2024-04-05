@@ -12,11 +12,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://carstenkoerner.github.io/blog-preview-card/)
 
 ## My process
 
@@ -51,8 +47,8 @@ I was a bit confused about the fact that the focus state for interactive element
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+For now, I would like to continue to concentrate on the possibilities for creating responsive pages. But I'm also looking forward to starting with JavaScript soon.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/carstenkoerner)
+- Frontend Mentor - [@carstenkoerner](https://www.frontendmentor.io/profile/carstenkoerner)
